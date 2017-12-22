@@ -8,7 +8,7 @@ var isObject = equals('object')
 
 var isUndefined = equals('undefined')
 
-var globalWindowMock = function(defaultParams) {
+var mockWindow = function(defaultParams) {
   var win = {}
 
   if (isObject(typeof window)) {
@@ -31,4 +31,4 @@ var globalWindowMock = function(defaultParams) {
   return win
 }
 
-module.exports = globalWindowMock
+module.exports = mockWindow

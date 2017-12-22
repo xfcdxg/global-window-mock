@@ -1,7 +1,7 @@
 {
-  "name": "global-window-mock",
+  "name": "mock-window",
   "version": "1.0.0",
-  "description": "global window mock",
+  "description": "mock window",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,14 +11,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xfcdxg/global-window-mock.git"
+    "url": "git+https://github.com/xfcdxg/mock-window.git"
   },
   "author": "zhou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xfcdxg/global-window-mock/issues"
+    "url": "https://github.com/xfcdxg/mock-window/issues"
   },
-  "homepage": "https://github.com/xfcdxg/global-window-mock#readme",
+  "homepage": "https://github.com/xfcdxg/mock-window#readme",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-uglify": "^3.0.0",

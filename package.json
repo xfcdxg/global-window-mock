@@ -1,6 +1,6 @@
 {
   "name": "mock-window",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mock window",
   "main": "index.js",
   "scripts": {
